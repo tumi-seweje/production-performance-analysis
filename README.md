@@ -71,7 +71,7 @@ The dataset is simulated and uses assumed production conditions, downtime distri
 
 ## Personal Reflections
 
-I want to learn more about how to make the visualisations look more aesthetically appealing and attractive - may explore use of Tableau with this same dataset, as well as reading up on the features within PowerBI that I could make use of to improve the existing dashboard.
+I want to learn more about how to make the dashboard visualisations look more visually attractive and engaging - may explore use of Tableau with this same dataset, as well as reading up on the features within PowerBI that I could make use of to improve the existing dashboard.
 
 ## Files
 
