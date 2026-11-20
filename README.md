@@ -69,10 +69,14 @@ To be completed after analysis of the final dashboard.
 
 The dataset is simulated and uses assumed production conditions, downtime distributions and product characteristics. Findings should therefore be interpreted as an analytical demonstration rather than evidence of actual manufacturing performance.
 
+## Personal Reflections
+
+I want to learn more about how to make the visualisations look more aesthetically appealing and attractive - may explore use of Tableau with this same dataset, as well as reading up on the features within PowerBI that I could make use of to improve the existing dashboard.
+
 ## Files
 
 - `data/`: Source dataset.
-- `excel/`: Excel analysis workbook.
-- `powerbi/`: Power BI report.
+- `excel/`: Excel analysis spreadsheet.
+- `powerbi/`: Power BI dashboard.
 - `screenshots/`: Dashboard screenshots.
 - `documentation/`: Supporting methodology and project notes.
