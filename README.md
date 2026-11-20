@@ -18,8 +18,8 @@ The project uses Excel and Power BI to transform production records into an inte
 ## Tools & Technologies
 
 - Microsoft Excel: Data organisation, calculations and initial analysis.
-- Power Query: Data preparation and transformation.
-- Power BI: Data modelling, DAX measures and interactive visualisation.
+- Power Query (in PowerBI): Data preparation and transformation.
+- PowerBI: Data modelling, DAX measures and interactive visualisation.
 - GitHub: Project documentation and version control.
 
 ## Dataset
